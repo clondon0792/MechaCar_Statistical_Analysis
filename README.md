@@ -1,5 +1,5 @@
 # MechaCar Statistical Analysis
-Statisitical analysis of automobile performance with R
+In this project, we will be using R to review production data for insights that may help a manufacturing team. We have been provided with manufacturing and performance data for the MechaCar vehicle and are tasked with looking at ways to predict miles per gallon, as well as looking at whether or not different manufacturing lots are producing within prescribed specifications. Lastly, we are charged with designing studies to compare the performance of MechaCar with vehicle of other manufacturers.
 
 ## Overview
 AutosRUs' new MechaCar is "suffering from production troubles" and the company is hoping that an analytical review may help provide some insight. The goal of this project is to:
